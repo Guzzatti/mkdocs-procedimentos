@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Procedimentos Guzzatti
+site_url: https://guzzatti.github.io/mkdocs-procedimentos
+repo_url: https://github.com/Guzzatti/mkdocs-procedimentos
+repo_name: Guzzatti/mkdocs-procedimentos
+
+theme:
+  name: material
+
+nav:
+  - Início: index.md
