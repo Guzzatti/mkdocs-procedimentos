@@ -18,9 +18,12 @@ git push -u origin main
 
 # Instala a dependencia de deploy do gh-pages
 poetry add mkdocs-gh-deploy --group dev
-poetry run mkdocs serve -- gera site local
-poetry run mkdocs build -- gera os arquivos em html no projeto
-poetry run mkdocs gh-deploy -- faz a publicação no github pages
+
+poetry run mkdocs serve  (gera site local)
+
+poetry run mkdocs build  (gera os arquivos em html no projeto)
+
+poetry run mkdocs gh-deploy  (faz a publicação no github pages)
 
 
 
