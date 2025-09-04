@@ -5,6 +5,83 @@ repo_name: Guzzatti/mkdocs-procedimentos
 
 theme:
   name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      primary: custom     # deixe assim por enquanto
+      accent: custom
 
+extra_css:
+  - assets/stylesheets/overrides.css   # sem "site/"
+
+plugins:
+  - search
 nav:
   - Início: index.md
+  - E-commerce:
+        - Visão geral: ecommerce/index.md
+        - Procedimentos Diários: ecommerce/procedimentos-diarios.md
+        - Procedimentos Semanais: ecommerce/procedimentos-semanais.md
+        - Procedimentos Mensais: ecommerce/procedimentos-mensais.md
+        - Padrões & Políticas: ecommerce/padroes-politicas.md
+        - Checklists: ecommerce/checklists.md
+        - Modelos/Templates: ecommerce/modelos.md
+  - Vendas:
+        - Visão geral: vendas/index.md
+        - Procedimentos Diários: vendas/procedimentos-diarios.md
+        - Procedimentos Semanais: vendas/procedimentos-semanais.md
+        - Procedimentos Mensais: vendas/procedimentos-mensais.md
+        - Padrões & Políticas: vendas/padroes-politicas.md
+        - Checklists: vendas/checklists.md
+        - Modelos/Templates: vendas/modelos.md
+  - Recursos Humanos (RH):
+        - Visão geral: rh/index.md
+        - Procedimentos Diários: rh/procedimentos-diarios.md
+        - Procedimentos Semanais: rh/procedimentos-semanais.md
+        - Procedimentos Mensais: rh/procedimentos-mensais.md
+        - Padrões & Políticas: rh/padroes-politicas.md
+        - Checklists: rh/checklists.md
+        - Modelos/Templates: rh/modelos.md
+  - Financeiro:
+        - Visão geral: financeiro/index.md
+        - Procedimentos Diários: financeiro/procedimentos-diarios.md
+        - Procedimentos Semanais: financeiro/procedimentos-semanais.md
+        - Procedimentos Mensais: financeiro/procedimentos-mensais.md
+        - Padrões & Políticas: financeiro/padroes-politicas.md
+        - Checklists: financeiro/checklists.md
+        - Modelos/Templates: financeiro/modelos.md
+  - Assistência Técnica:
+        - Visão geral: assistencia/index.md
+        - Procedimentos Diários: assistencia/procedimentos-diarios.md
+        - Procedimentos Semanais: assistencia/procedimentos-semanais.md
+        - Procedimentos Mensais: assistencia/procedimentos-mensais.md
+        - Padrões & Políticas: assistencia/padroes-politicas.md
+        - Checklists: assistencia/checklists.md
+        - Modelos/Templates: assistencia/modelos.md
+  - Organização da Loja:
+        - Visão geral: organizacao-da-loja/index.md
+        - Procedimentos Diários: organizacao-da-loja/procedimentos-diarios.md
+        - Procedimentos Semanais: organizacao-da-loja/procedimentos-semanais.md
+        - Procedimentos Mensais: organizacao-da-loja/procedimentos-mensais.md
+        - Padrões & Políticas: organizacao-da-loja/padroes-politicas.md
+        - Checklists: organizacao-da-loja/checklists.md
+        - Modelos/Templates: organizacao-da-loja/modelos.md
+  - Vestimenta & Apresentação:
+        - Visão geral: vestimenta/index.md
+        - Procedimentos Diários: vestimenta/procedimentos-diarios.md
+        - Procedimentos Semanais: vestimenta/procedimentos-semanais.md
+        - Procedimentos Mensais: vestimenta/procedimentos-mensais.md
+        - Padrões & Políticas: vestimenta/padroes-politicas.md
+        - Checklists: vestimenta/checklists.md
+        - Modelos/Templates: vestimenta/modelos.md
+

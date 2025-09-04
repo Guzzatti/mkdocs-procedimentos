@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# Manual de Padrões & Procedimentos — Guzzatti
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bem-vindo ao manual vivo da Guzzatti. Aqui centralizamos **processos**, **políticas**, **checklists** e **modelos** por setor.
 
-## Commands
+> **Como usar**
+> - Navegue pelos **Setores** no menu lateral.
+> - Sugestões de melhoria? Abra um *pull request* ou registre um *issue* no repositório.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Convenções do Manual
 
-## Project layout
+- **SOP** = *Standard Operating Procedure* (Procedimento Operacional Padrão).
+- Cada página tem: **Objetivo**, **Escopo**, **Responsáveis**, **Ferramentas/Sistemas**, **Passo a passo**, **KPIs** e **Anexos/Modelos**.
+- Use os modelos prontos em cada setor para criar novos procedimentos.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Versionamento
+
+- Use `YYYY-MM-DD - Título - Autor` no topo de cada SOP.
+- Mantenha mudanças pequenas e objetivas. 
