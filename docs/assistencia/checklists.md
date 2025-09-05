@@ -1,12 +1,22 @@
 # Checklists
 
-!!! checklist "Abertura diária"
-    - [ ] Login nos sistemas (Tray/Vtex/ERP CAPTA/CRM)
-    - [ ] Conferência de pendências do dia anterior
-    - [ ] Limpeza de caixa de e-mail/SAC
+## Recebimento (balcão)
+- Fotos da peça (múltiplos ângulos)
+- Produto identificado corretamente (ouro branco/amarelo; óculos/relógios; Referência)
+- **Ouro:** peso anotado; medida (ex.: aro) registrada
+- **Óculos/Relógios:** verificação de parafusos, lentes/vidro, pulseira, bateria
+- Defeito relatado descrito com clareza
+- Dados do cliente completos (nome, WhatsApp, **CPF**, origem da compra)
+- Nome do atendente na OS
+- OS registrada no sistema e encaminhamento definido
 
-!!! checklist "Fechamento diário"
-    - [ ] Exportação/backup de relatórios do dia
-    - [ ] Atualização de painel de KPIs
-    - [ ] Registro de ocorrências
+## Acompanhamento
+- Cobrança de andamento ao setor executor no prazo combinado
+- Cliente informado sobre status/parecer
+- Registro de contatos com o cliente
 
+## Devolução ao cliente
+- Conferência do serviço conforme combinado
+- Sem pendências/omissões na peça
+- Cliente avisado para retirada
+- Entrega registrada no sistema e documentos arquivados

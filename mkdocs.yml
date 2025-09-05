@@ -37,13 +37,12 @@ nav:
         - Checklists: ecommerce/checklists.md
         - Modelos/Templates: ecommerce/modelos.md
   - Vendas:
-        - Visão geral: vendas/index.md
-        - Procedimentos Diários: vendas/procedimentos-diarios.md
-        - Procedimentos Semanais: vendas/procedimentos-semanais.md
-        - Procedimentos Mensais: vendas/procedimentos-mensais.md
-        - Padrões & Políticas: vendas/padroes-politicas.md
-        - Checklists: vendas/checklists.md
-        - Modelos/Templates: vendas/modelos.md
+            - Visão geral: vendas/index.md
+            - SOP — Condicional de Clientes: vendas/sop-condicional.md
+            - SOP — Reserva de Produto: vendas/sop-reserva.md
+            - Checklists: vendas/checklists.md
+            - Padrões & Políticas: vendas/padroes-politicas.md
+
   - Recursos Humanos (RH):
         - Visão geral: rh/index.md
         - Procedimentos Diários: rh/procedimentos-diarios.md
@@ -61,13 +60,10 @@ nav:
         - Checklists: financeiro/checklists.md
         - Modelos/Templates: financeiro/modelos.md
   - Assistência Técnica:
-        - Visão geral: assistencia/index.md
-        - Procedimentos Diários: assistencia/procedimentos-diarios.md
-        - Procedimentos Semanais: assistencia/procedimentos-semanais.md
-        - Procedimentos Mensais: assistencia/procedimentos-mensais.md
-        - Padrões & Políticas: assistencia/padroes-politicas.md
-        - Checklists: assistencia/checklists.md
-        - Modelos/Templates: assistencia/modelos.md
+            - Visão geral: assistencia/index.md
+            - SOP — Atendimento de Assistência: assistencia/sop-atendimento-assistencia.md
+            - Checklists: assistencia/checklists.md
+            - Padrões & Políticas: assistencia/padroes-politicas.md
   - Organização da Loja:
         - Visão geral: organizacao-da-loja/index.md
         - Procedimentos Diários: organizacao-da-loja/procedimentos-diarios.md

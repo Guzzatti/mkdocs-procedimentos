@@ -1,12 +1,28 @@
 # Checklists
 
-!!! checklist "Abertura diária"
-    - [ ] Login nos sistemas (Tray/Vtex/ERP CAPTA/CRM)
-    - [ ] Conferência de pendências do dia anterior
-    - [ ] Limpeza de caixa de e-mail/SAC
 
-!!! checklist "Fechamento diário"
-    - [ ] Exportação/backup de relatórios do dia
-    - [ ] Atualização de painel de KPIs
-    - [ ] Registro de ocorrências
+## Condicional — Envio
+- Cliente autorizado pela gerência
+- Cadastro completo (nome, CPF, e-mail, WhatsApp, endereço, data de nascimento)
+- Lançamento no sistema
+- Promissória impressa e assinada
+- Vídeo da embalagem gravado e enviado ao cliente
+- Motoboy instruído a solicitar vídeo de recebimento
 
+## Condicional — Retorno
+- Contato com cliente antes do prazo
+- Itens conferidos com sistema
+- Estado de conservação verificado
+- Sistema atualizado (devolvidos e vendidos)
+- Promissória arquivada
+
+
+## Reserva de Produto
+- Nome completo do cliente anotado
+- Telefone/WhatsApp registrado
+- Produto entregue ao caixa com dados do cliente
+- Reserva lançada no sistema
+- Cliente avisado sobre prazo de 48h
+- Vendedor monitora reservas diariamente
+- Contato feito no vencimento (WhatsApp/ligação)
+- Produto liberado para o salão se não houver retorno em até 2h
