@@ -1,5 +1,16 @@
 # Checklists
 
+## Vendas Gerais
+- Cliente cumprimentado e oferecido água/café
+- Postura profissional no balcão
+- Produtos apresentados dentro da quantidade ideal
+- Produtos guardados ou supervisionados ao buscar novos
+- Garantia preenchida (loja + fornecedor)
+- Folha de venda com dados completos
+- Forma de pagamento detalhada
+- Cliente orientado em caso de crediário
+- Embalagem preparada (presente ou tradicional)
+- Cliente incluído/atualizado na carteira
 
 ## Condicional — Envio
 - Cliente autorizado pela gerência
@@ -15,7 +26,6 @@
 - Estado de conservação verificado
 - Sistema atualizado (devolvidos e vendidos)
 - Promissória arquivada
-
 
 ## Reserva de Produto
 - Nome completo do cliente anotado

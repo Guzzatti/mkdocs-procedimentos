@@ -38,6 +38,7 @@ nav:
         - Modelos/Templates: ecommerce/modelos.md
   - Vendas:
             - Visão geral: vendas/index.md
+            - SOP — Vendas Gerais: vendas/sop-vendas-gerais.md
             - SOP — Condicional de Clientes: vendas/sop-condicional.md
             - SOP — Reserva de Produto: vendas/sop-reserva.md
             - Checklists: vendas/checklists.md
