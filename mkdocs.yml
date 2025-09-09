@@ -46,12 +46,10 @@ nav:
 
   - Recursos Humanos (RH):
         - Visão geral: rh/index.md
-        - Procedimentos Diários: rh/procedimentos-diarios.md
-        - Procedimentos Semanais: rh/procedimentos-semanais.md
-        - Procedimentos Mensais: rh/procedimentos-mensais.md
+        - SOP - Recrutamento e Seleção: rh/recrutamento-selecao.md
+        - SOP - Férias: rh/ferias.md
         - Padrões & Políticas: rh/padroes-politicas.md
         - Checklists: rh/checklists.md
-        - Modelos/Templates: rh/modelos.md
   - Financeiro:
         - Visão geral: financeiro/index.md
         - Procedimentos Diários: financeiro/procedimentos-diarios.md
