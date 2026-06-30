@@ -1,6 +1,21 @@
 # Padrões & Políticas
 
-- Padrão de nomes de arquivos
-- Padrão de comunicação (e-mail, WhatsApp, redes sociais)
-- Regras de LGPD
-- Política de devoluções/garantias (quando aplicável)
+- **Fluxo padrão do produto:** o produto deve seguir o fluxo Capta → lista de preços/descrição → Tray → fotos/configurações finais → site sincronizado.
+- **Capta:** o Capta é o ERP utilizado pela empresa e está integrado à Tray.
+- **Lista de preços:** os produtos enviados ao site devem passar pela lista de preços do ERP.
+- **Descrição completa:** sempre que aplicável, a descrição completa do produto deve ser cadastrada no Capta para envio à Tray.
+- **Tray:** a Tray é a plataforma utilizada para operação do ecommerce. Nela, devem ser conferidas fotos, configurações finais e apresentação do produto.
+- **Estoque integrado:** atualmente, o estoque das lojas do Nações Shopping e do Criciúma Shopping está integrado ao site.
+- **Sincronização:** após o tratamento no Capta e na Tray, o produto fica, em teoria, sincronizado. Mesmo assim, deve haver conferência visual e operacional.
+- **Marketplaces:** nem todo produto do site pode ir para marketplace. A publicação em Mercado Livre, Magalu ou outros canais deve ser conferida com atenção.
+- **Preço em marketplace:** os preços dos marketplaces devem ser conferidos para evitar divergências em relação ao site e à estratégia comercial.
+- **Produtos em marketplace:** verificar se os produtos certos estão publicados e se não há produtos indevidos nos canais externos.
+- **Descontos:** descontos devem ser sempre verificados com Gabriel antes de serem concedidos ao cliente.
+- **Atendimento:** o Ecommerce possui um número de WhatsApp separado para clientes que vêm diretamente do site ou de tráfego pago.
+- **Poli:** a Poli deve ser utilizada para clientes vindos de outras fontes, quando aplicável.
+- **Pagamentos:** a Vindi é a plataforma utilizada para links de pagamento e deve ser conferida nas rotinas do Ecommerce.
+- **Fretes:** erros ou dúvidas de frete devem ser conferidos antes da finalização ou envio do pedido.
+- **Fraude:** vendas suspeitas exigem conferência completa, incluindo pesquisa no SPC, validação de dados, conferência visual do endereço e ligação para o telefone encontrado no SPC.
+- **LGPD:** dados de clientes devem ser utilizados apenas para finalidade de atendimento, pagamento, entrega, segurança da venda e prevenção de fraude. Não compartilhar dados sem necessidade operacional.
+- **Campanhas:** a ideação de campanhas pode envolver Gabriel, Vitor e gestores de tráfego. As campanhas digitais nem sempre seguem as campanhas da loja física.
+- **Registro de divergências:** qualquer erro de preço, estoque, anúncio, pagamento, frete ou suspeita de fraude deve ser registrado ou comunicado ao responsável definido. Responsável: [PENDENTE DEFINIR].
