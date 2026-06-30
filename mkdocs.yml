@@ -18,65 +18,66 @@ theme:
     repo: fontawesome/brands/github
   palette:
     - scheme: default
-      primary: custom     # deixe assim por enquanto
+      primary: custom
       accent: custom
 
 extra_css:
-  - assets/stylesheets/overrides.css   # sem "site/"
+  - assets/stylesheets/overrides.css
 
 plugins:
   - search
+
 nav:
   - Início: index.md
+
   - E-commerce:
-        - Visão geral: ecommerce/index.md
-        - Procedimentos Diários: ecommerce/procedimentos-diarios.md
-        - Procedimentos Semanais: ecommerce/procedimentos-semanais.md
-        - Procedimentos Mensais: ecommerce/procedimentos-mensais.md
-        - Padrões & Políticas: ecommerce/padroes-politicas.md
-        - Checklists: ecommerce/checklists.md
-        - Modelos/Templates: ecommerce/modelos.md
+      - Visão geral: ecommerce/index.md
+      - SOP — E-commerce: ecommerce/sop-ecommerce.md
+      - Padrões & Políticas: ecommerce/padroes-politicas.md
+      - Checklists: ecommerce/checklists.md
+
   - Vendas:
-            - Visão geral: vendas/index.md
-            - SOP — Vendas Gerais: vendas/sop-vendas-gerais.md
-            - SOP — Condicional de Clientes: vendas/sop-condicional.md
-            - SOP — Reserva de Produto: vendas/sop-reserva.md
-            - Checklists: vendas/checklists.md
-            - Padrões & Políticas: vendas/padroes-politicas.md
+      - Visão geral: vendas/index.md
+      - SOP — Vendas Gerais: vendas/sop-vendas-gerais.md
+      - SOP — Condicional de Clientes: vendas/sop-condicional.md
+      - SOP — Reserva de Produto: vendas/sop-reserva.md
+      - Checklists: vendas/checklists.md
+      - Padrões & Políticas: vendas/padroes-politicas.md
 
   - Recursos Humanos (RH):
-        - Visão geral: rh/index.md
-        - SOP - Recrutamento e Seleção: rh/recrutamento-selecao.md
-        - SOP - Férias: rh/ferias.md
-        - Padrões & Políticas: rh/padroes-politicas.md
-        - Checklists: rh/checklists.md
-  - Financeiro:
-        - Visão geral: financeiro/index.md
-        - Procedimentos Diários: financeiro/procedimentos-diarios.md
-        - Procedimentos Semanais: financeiro/procedimentos-semanais.md
-        - Procedimentos Mensais: financeiro/procedimentos-mensais.md
-        - Padrões & Políticas: financeiro/padroes-politicas.md
-        - Checklists: financeiro/checklists.md
-        - Modelos/Templates: financeiro/modelos.md
-  - Assistência Técnica:
-            - Visão geral: assistencia/index.md
-            - SOP — Atendimento de Assistência: assistencia/sop-atendimento-assistencia.md
-            - Checklists: assistencia/checklists.md
-            - Padrões & Políticas: assistencia/padroes-politicas.md
-  - Organização da Loja:
-        - Visão geral: organizacao-da-loja/index.md
-        - Procedimentos Diários: organizacao-da-loja/procedimentos-diarios.md
-        - Procedimentos Semanais: organizacao-da-loja/procedimentos-semanais.md
-        - Procedimentos Mensais: organizacao-da-loja/procedimentos-mensais.md
-        - Padrões & Políticas: organizacao-da-loja/padroes-politicas.md
-        - Checklists: organizacao-da-loja/checklists.md
-        - Modelos/Templates: organizacao-da-loja/modelos.md
-  - Vestimenta & Apresentação:
-        - Visão geral: vestimenta/index.md
-        - Procedimentos Diários: vestimenta/procedimentos-diarios.md
-        - Procedimentos Semanais: vestimenta/procedimentos-semanais.md
-        - Procedimentos Mensais: vestimenta/procedimentos-mensais.md
-        - Padrões & Políticas: vestimenta/padroes-politicas.md
-        - Checklists: vestimenta/checklists.md
-        - Modelos/Templates: vestimenta/modelos.md
+      - Visão geral: rh/index.md
+      - SOP — Recrutamento e Seleção: rh/recrutamento-selecao.md
+      - SOP — Férias: rh/ferias.md
+      - Padrões & Políticas: rh/padroes-politicas.md
+      - Checklists: rh/checklists.md
 
+  - Financeiro:
+      - Visão geral: financeiro/index.md
+      - SOP — Financeiro: financeiro/sop-financeiro.md
+      - Padrões & Políticas: financeiro/padroes-politicas.md
+      - Checklists: financeiro/checklists.md
+
+  - Assistência Técnica:
+      - Visão geral: assistencia/index.md
+      - SOP — Atendimento de Assistência: assistencia/sop-atendimento-assistencia.md
+      - Procedimentos Diários: assistencia/procedimentos-diarios.md
+      - Checklists: assistencia/checklists.md
+      - Padrões & Políticas: assistencia/padroes-politicas.md
+
+  - Organização da Loja:
+      - Visão geral: organizacao-da-loja/index.md
+      - Procedimentos Diários: organizacao-da-loja/procedimentos-diarios.md
+      - Procedimentos Semanais: organizacao-da-loja/procedimentos-semanais.md
+      - Procedimentos Mensais: organizacao-da-loja/procedimentos-mensais.md
+      - Padrões & Políticas: organizacao-da-loja/padroes-politicas.md
+      - Checklists: organizacao-da-loja/checklists.md
+      - Modelos/Templates: organizacao-da-loja/modelos.md
+
+  - Vestimenta & Apresentação:
+      - Visão geral: vestimenta/index.md
+      - Procedimentos Diários: vestimenta/procedimentos-diarios.md
+      - Procedimentos Semanais: vestimenta/procedimentos-semanais.md
+      - Procedimentos Mensais: vestimenta/procedimentos-mensais.md
+      - Padrões & Políticas: vestimenta/padroes-politicas.md
+      - Checklists: vestimenta/checklists.md
+      - Modelos/Templates: vestimenta/modelos.md
